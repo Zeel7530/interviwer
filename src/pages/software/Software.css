@@ -1,0 +1,180 @@
+h4.keytext {
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 34px;
+}
+
+.keyformet {
+    padding-bottom: 170px;
+}
+
+ul.softwareready {
+    margin-top: 40px;
+}
+
+ul.softwareready li {
+    background: #FFFFFF;
+    border: 1px solid #E6EEFF;
+    box-shadow: 0px 0px 150px rgba(133, 143, 179, 0.05);
+    border-radius: 15px;
+    padding: 46px 40px 66px 40px;
+}
+
+.keyformet ul {
+    column-gap: 20px;
+}
+
+
+.hiringsoft h2 {
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 34px;
+    margin: 26px 0 16px;
+}
+
+.hiringsoft p {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    max-width: 375px;
+}
+
+.softwarevi img {
+    width: 590px;
+    transition: all 0.5s ease;
+    height: 380px;
+    z-index: 1;
+}
+
+.softwarevi {
+    display: flex;
+    justify-content: center;
+    position: relative;
+}
+
+.softwarevi:after {
+    position: absolute;
+    content: "";
+    background-image: url(../../assets/images/libaray7.png);
+    background-repeat: no-repeat;
+    bottom: -100px;
+    left: -20px;
+    width: 210px;
+    background-size: contain;
+    height: 229px;
+}
+
+a.playvi {
+    background: #FFFFFF;
+    border-radius: 100%;
+    width: 60px;
+    display: flex;
+    height: 60px;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    z-index: 1;
+    transform: translateY(-50%);
+    top: 50%;
+}
+
+a.playvi svg {
+    width: 20px;
+    height: 20px;
+}
+
+.mailbox {
+    margin-top: 73px;
+    max-width: 530px;
+}
+
+.mailbox input {
+    font-family: 'Sofia Pro';
+    background: #FFFFFF;
+    border: 1px solid #EBEDF1;
+    box-shadow: 0px 6px 30px rgb(243 243 243 / 20%);
+    border-radius: 10px;
+    width: 100%;
+    padding: 22px 0 22px 64px;
+}
+
+
+.mailbox span svg {
+    position: absolute;
+    transform: translateY(-50%);
+    bottom: 19px;
+    left: 31px;
+}
+
+span.schedulebtn.flex.items-center.justify-center {
+    position: absolute;
+    right: 0;
+}
+
+a.livebtn {
+    background: #457CE8;
+    border-radius: 0px 10px 10px 0px;
+    padding: 22px 29px;
+    font-family: 'Sofia Pro';
+    width: 220px;
+    position: absolute;
+    right: 0;
+}
+
+a.livebtn:hover {
+    color: #FFFFFF;
+}
+
+.libarayformet h3 {
+    font-family: 'Ving Smith';
+    color: #24304D;
+    font-weight: 400;
+    font-size: 50px;
+    line-height: 65px;
+    margin: 10px 0 19px;
+    position: relative;
+}
+
+.libarayformet h3:after {
+    position: absolute;
+    content: "";
+    background-image: url(../../assets/images/libaray6.png);
+    background-repeat: no-repeat;
+    bottom: -20px;
+    left: 0;
+    width: 322px;
+    height: 14px;
+    background-size: contain;
+}
+
+section.softwarecard.bg-\[\#F5F5F5\] {
+    padding: 60px 0 100px;
+}
+
+.Softwareformet h2 {
+    font-weight: 900;
+    font-size: 50px;
+    line-height: 60px;
+    max-width: 712px;
+}
+
+.Softwareformet {
+    position: relative;
+}
+
+.Softwareformet:after {
+    position: absolute;
+    content: "";
+    background-image: url(../../assets/images/libaray7.png);
+    background-repeat: no-repeat;
+    bottom: -25px;
+    right: -28px;
+    width: 170px;
+    background-size: contain;
+    height: 229px;
+}
+
+.mailbox input:focus {
+    border-color: transparent;
+    outline-color: transparent;
+}

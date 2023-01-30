@@ -1,0 +1,22 @@
+.items img {
+    margin: auto;
+}
+
+.slick-slider.slick-initialized button {
+    display: none !important;
+}
+
+section.barndwatson .slick-track {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.barndicon ul {
+    column-gap: 10px;
+    row-gap: 50px;
+}
+
+section.Barndlogo.bg-\[\#F5F5F5\] {
+    padding-bottom: 100px;
+}

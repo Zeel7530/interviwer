@@ -1,0 +1,18 @@
+:root {
+    --blue: #457CE8;
+    --white: #FFFFFF;
+    --dark-blue: #222E50;
+    --gray: #7A91AB;
+    --black: #616771;
+    --card-title: #1C2640;
+    --card-title-gray: #7989B1;
+    --card-title-black: #16182F;
+
+    --back-bg: #F5F5F5;
+
+    --font-interviwer: 18px;
+    --font-items: 16px;
+    --text-interviwer: 'Sofia Pro';
+    --font-num: 500;
+
+}

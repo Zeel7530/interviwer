@@ -1,0 +1,177 @@
+.container {
+    max-width: 1440px;
+}
+
+.navbtn a.loginbtn {
+    padding: 14px 32px;
+    background: #F8FAFF;
+    border: 1.2px solid #BAC2D1;
+    border-radius: 6px;
+}
+
+.navbtn a.singupbtn {
+    padding: 14px 31px !important;
+    border: 1.2px solid #BAC2D1;
+    border-radius: 6px;
+}
+
+.css-1u9des2-indicatorSeparator {
+    width: 0 !important;
+}
+
+nav.hidden.space-x-10.md\:flex {
+    margin: 0;
+}
+
+.css-b62m3t-container {
+    margin-left: 30px;
+}
+
+
+.css-13cymwt-control,
+.css-t3ipsp-control {
+    min-height: 50px !important;
+    width: 110px;
+}
+
+.flex.items-center.justify-between.border-b-2.border-gray-100.py-6.md\:justify-start.md\:space-x-10 {
+    border: none;
+}
+
+nav.hidden.space-x-10.md\:flex a {
+    color: var(--card-title-black);
+    font-size: var(--font-interviwer);
+    font-family: var(--text-interviwer);
+}
+
+button#headlessui-popover-button-\:r6\: {
+    color: var(--card-title-black);
+    font-size: var(--font-interviwer);
+    font-family: var(--text-interviwer);
+}
+
+button#headlessui-popover-button-\:r4\: {
+    color: var(--card-title-black);
+    font-size: var(--font-interviwer);
+    font-family: var(--text-interviwer);
+}
+
+button#headlessui-popover-button-\:r2\: {
+    color: var(--card-title-black);
+    font-size: var(--font-interviwer);
+    font-family: var(--text-interviwer);
+}
+
+nav svg {
+    fill: var(--card-title-black);
+}
+
+button#headlessui-popover-button-\:ra\: {
+    color: var(--card-title-black);
+    font-size: var(--font-interviwer);
+    font-family: var(--text-interviwer);
+
+}
+
+button#headlessui-popover-button-\:re\: {
+    color: var(--card-title-black);
+    font-size: var(--font-interviwer);
+    font-family: var(--text-interviwer);
+}
+
+.navbtn.hidden.items-center.justify-end.md\:flex.md\:flex-1.lg\:w-0 a {
+    color: var(--card-title-black);
+    font-size: var(--font-interviwer);
+    font-family: var(--text-interviwer);
+}
+
+.navbtn.hidden.items-center.justify-end.md\:flex.md\:flex-1.lg\:w-0 a:hover {
+    background: var(--blue);
+    color: #FFFFFF;
+}
+
+a.singupbtn {
+    background: #F8FAFF;
+    color: #1C2640 !important;
+    transition: all 1s ease;
+}
+
+a.singupbtn:hover {
+    background: var(--blue);
+    color: #FFFFFF !important;
+}
+
+
+.css-1jqq78o-placeholder {
+    color: var(--card-title-black) !important;
+}
+
+.css-1xc3v61-indicatorContainer svg {
+    color: var(--card-title-black) !important;
+}
+
+.focus\:ring-2:focus {
+    --tw-ring-offset-shadow: var(--tw-ring-inset) 0 0 0 var(--tw-ring-offset-width) var(--tw-ring-offset-color);
+    --tw-ring-shadow: transparent;
+    box-shadow: var(--tw-ring-offset-shadow), var(--tw-ring-shadow), var(--tw-shadow, 0 0 #0000);
+}
+
+.navbtn a.loginbtn {
+    transition: all 1s ease;
+}
+
+.css-13cymwt-control {
+    border: 1px solid;
+}
+
+.css-t3ipsp-control {
+    box-shadow: none !important;
+    border-color: hsl(0, 0%, 80%) !important;
+}
+
+.header.relative.bg-white {
+    position: absolute;
+    width: 100%;
+}
+
+.css-1fdsijx-ValueContainer {
+    font-size: 16px;
+    font-family: 'Sofia Pro';
+    font-weight: 500;
+}
+
+.navbtn.hidden.items-center.justify-end.md\:flex.md\:flex-1.lg\:w-0 {
+    margin-left: 8rem;
+}
+
+nav.hidden.space-x-10 {
+    display: flex;
+
+}
+
+nav.hidden.space-x-10 a {
+    color: var(--card-title-black);
+    font-size: var(--font-interviwer);
+    font-family: var(--text-interviwer);
+}
+
+nav#navbarNav {
+    width: 78%;
+    align-items: center;
+}
+
+.menushowbtn {
+    display: none;
+}
+
+nav#navbarNav button {
+    color: var(--card-title-black);
+}
+
+div#headlessui-popover-panel-\:rh\: {
+    z-index: 1 !important;
+}
+
+div#headlessui-popover-panel-\:rk\: {
+    z-index: 9 !important;
+}
